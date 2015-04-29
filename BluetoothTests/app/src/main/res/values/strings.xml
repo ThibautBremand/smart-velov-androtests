@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothTests</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_json">JsonActivity</string>
+    <string name="title_activity_bluetooth_client">BluetoothClient</string>
+    <string name="title_activity_request">Request</string>
+</resources>
